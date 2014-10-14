@@ -37,12 +37,14 @@ margin-bottom: 1.3em;
 float: right;
 max-width: 45%;
 margin-bottom: 1.3em;
+margin-top: 2.5em;
 }
 
 .image2 {
 float: left;
 max-width: 45%;
 margin-bottom: 1.3em;
+margin-top: 3.0em;
 }
 
 h1, h2, h3, h4 {
@@ -81,9 +83,7 @@ img {
   
 }
 
-.sec-img {
-float:left;
-}
+
 
 a {
   color: black;
@@ -103,7 +103,7 @@ a:hover {
 
 table {
   table-layout: fixed;
-  margin: 0 auto
+  margin: 0 auto;
 }
 th,td {
   padding: .75em .5em;
