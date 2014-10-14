@@ -120,12 +120,11 @@ table {
 th,td {
   padding: .75em .5em;
   border-bottom: 1px solid #ddd;
-  background: #AD9A6F;
 }
 th {
   text-align: center;
   font: white;
-  background: #AD9A6F;
+  background: brown;
     border-right: 2px solid #ddd;
 }
 tr:first-child th, tr:first-child td {
