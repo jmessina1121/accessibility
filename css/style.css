@@ -14,7 +14,7 @@ body {
 p {
 margin-bottom: 1.3em;
 font-size: 14px;
-padding: 2em;
+
 }
 
 .p1 {
@@ -33,7 +33,7 @@ padding: 2em;
 
 .image1 {
 float: right;
-max-width: 45%
+max-width: 35%
 }
 
 .image2 {
