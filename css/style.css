@@ -51,6 +51,10 @@ img {
   
 }
 
+.sec-img {
+float:left;
+}
+
 a {
   color: black;
 }
