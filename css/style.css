@@ -116,7 +116,6 @@ float: right;
 
 table {
   table-layout: fixed;
-  margin-right: 20em;
   margin-top: 2em;
   margin-bottom: 5em;
   max-width:50%;
@@ -128,7 +127,7 @@ th,td {
   background: #AD9A6F;
 }
 th {
-  text-align: center;
+  text-align: right;
   font: white;
   background: #AD9A6F;
     border-right: 2px solid #ddd;
