@@ -3,7 +3,7 @@ html,body {
   padding: 0;
 }
 body {
-  background-color: #C1A878;
+  background-color: white;
   font-family: 'Georgia', serif;
   font-weight: 400;
   font-size: 18px;
@@ -37,9 +37,9 @@ small, .small {font-size: 0.833em;}
   max-width: 700px;
   margin: 0 auto;
 }
-.content {
-background = white
-}
+
+
+
 img {
   margin: 0 auto;
   display: block;
