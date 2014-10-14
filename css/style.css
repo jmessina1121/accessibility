@@ -14,13 +14,14 @@ body {
 p {
 margin-bottom: 1.3em;
 font-size: 14px;
+padding: 2em;
 }
 
 .p1 {
 float: left;
 max-width: 45%;
 margin-bottom: 1.3em;
-padding: 2ems;
+padding: 2em;
 }
 
 .p2{
