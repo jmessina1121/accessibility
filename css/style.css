@@ -36,7 +36,8 @@ small, .small {font-size: 0.833em;}
 .container {
   max-width: 700px;
   margin: 0 auto;
-}
+  color: white
+  }
 
 
 
