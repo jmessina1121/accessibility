@@ -108,6 +108,7 @@ a:hover {
 table {
   table-layout: fixed;
   margin: 0 auto;
+  margin-top: 2em;
 }
 th,td {
   padding: .75em .5em;
