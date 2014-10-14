@@ -109,6 +109,11 @@ a:hover {
   
 }
 
+.h3
+{
+float: right;
+}
+
 table {
   table-layout: fixed;
   margin: 0 auto;
