@@ -12,25 +12,27 @@ body {
 }
 
 p {margin-bottom: 1.3em;
-font-size: 14px;
+font-size: 18px;
 }
 .p1 {
 float: left;
+max-width: 50%;
 }
 
 .p2{
 float:right;
-max-width: 350px;
+max-width:50%;
 
 }
 
 .image1 {
 float: right;
+max-width: 50%
 }
 
 .image2 {
 float: left;
-max-width: 350px
+max-width: 50%;
 }
 
 h1, h2, h3, h4 {
