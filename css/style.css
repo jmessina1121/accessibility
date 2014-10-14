@@ -55,11 +55,11 @@ a:hover {
 }
 
 .header {
-  background: #7F4F21;
+  background: black;
   padding-top: 1em;
   padding-bottom: 1em;
   margin-bottom: 1em;
-  color: White;
+  
 }
 
 table {
