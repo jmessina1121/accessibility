@@ -30,6 +30,7 @@ float: right;
 
 .image2 {
 float: left;
+max-width: 350px
 }
 
 h1, h2, h3, h4 {
