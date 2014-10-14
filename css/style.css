@@ -11,7 +11,9 @@ body {
   color: black;
 }
 
-p {margin-bottom: 1.3em;}
+p {margin-bottom: 1.3em;
+font-size: 14px;
+}
 
 h1, h2, h3, h4 {
   margin: 1.414em 0 0.5em;
@@ -66,6 +68,7 @@ a:hover {
 
 table {
   table-layout: fixed;
+  margin: 0 auto
 }
 th,td {
   padding: .75em .5em;
